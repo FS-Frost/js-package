@@ -2,7 +2,7 @@ class Person {
     name = "";
 
     constructor(name) {
-        this.name = name + "dist";
+        this.name = name + "dist2";
     }
 }
 
