@@ -1,7 +1,7 @@
 {
-  "name": "js-package",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Eduardo Hinojosa <30810344+FS-Frost@users.noreply.github.com>",
-  "license": "MIT"
+    "name": "js-package",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "author": "Eduardo Hinojosa <30810344+FS-Frost@users.noreply.github.com>",
+    "license": "MIT"
 }
